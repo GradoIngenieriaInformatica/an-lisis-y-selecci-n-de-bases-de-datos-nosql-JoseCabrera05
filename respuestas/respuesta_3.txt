@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+### COLUMNAR | Grandes volúmenes de transacciones históricas optimizadas para análisis temporal y detección de tendencias
