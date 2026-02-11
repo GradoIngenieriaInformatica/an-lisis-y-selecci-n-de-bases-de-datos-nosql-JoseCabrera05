@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+### CLAVE-VALOR | Caché distribuida con acceso directo por identificador único y sin relaciones complejas
